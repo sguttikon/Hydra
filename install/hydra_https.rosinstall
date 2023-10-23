@@ -55,3 +55,9 @@
     local-name: voxblox
     uri: https://github.com/MIT-SPARK/voxblox.git
     version: feature/hydra
+- git:
+    local-name: catkin_boost_python_buildtool
+    uri: https://github.com/ethz-asl/catkin_boost_python_buildtool.git
+- git:
+    local-name: numpy_eigen
+    uri: https://github.com/ethz-asl/numpy_eigen.git
